@@ -1,11 +1,11 @@
-def class Dog 
+class Dog 
 end
 
 fido = Dog.new 
 snoopy = Dog.new 
 lassie = Dog.new
 
-def class Person 
+class Person 
 end
 
 adele_goldberg = Person.new 
